@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810194700449",
+    "project_id": "proyecto-integrador-c223b",
+    "storage_bucket": "proyecto-integrador-c223b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810194700449:android:458c71cc357864eb0b48e0",
+        "android_client_info": {
+          "package_name": "com.giniita.guarderia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810194700449-vlakm0uvifaheinekon8lfual6kiu8hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimSmnNzgGesCWeOqswki79KoqnETlfPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810194700449-vlakm0uvifaheinekon8lfual6kiu8hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
